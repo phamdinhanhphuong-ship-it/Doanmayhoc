@@ -28,6 +28,4 @@ Kết quả cho thấy:
 
 Đề tài không chỉ giúp người học rèn luyện kỹ năng xử lý dữ liệu và xây dựng mô hình học máy, mà còn cho thấy **tiềm năng ứng dụng Machine Learning trong lĩnh vực y tế**, hỗ trợ bác sĩ và bệnh viện trong việc sàng lọc, chẩn đoán sớm bệnh viêm gan C.
 
----
 
-👉 Bạn có muốn mình viết thêm một bản **giới thiệu ngắn gọn chỉ trong 1 phút thuyết trình** không? Như kiểu mở đầu khi bạn đứng trước lớp bảo vệ.
